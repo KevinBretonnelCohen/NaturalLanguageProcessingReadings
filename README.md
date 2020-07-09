@@ -40,3 +40,9 @@ Pedersen Empiricism Is Not A Matter Of Faith: On the importance of making your c
 Pestian Sentiment Analysis of Suicide Notes: Using natural language processing to study suicidality.
 
 Reinlander: Natural language processing at scale -- lessons learned from a case study in the biomedical domain.
+
+Steedman: The implications of Zipf's Law for natural language processing--and for linguistics.
+
+Temnikova: Mathematical properties of the language of a genre of clinical texts.
+
+Wu: How to think critically about the relationship between optimization and generalization.
