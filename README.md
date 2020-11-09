@@ -41,6 +41,8 @@ Pestian Sentiment Analysis of Suicide Notes: Using natural language processing t
 
 Reinlander: Natural language processing at scale -- lessons learned from a case study in the biomedical domain.
 
+Sarker et al.: Lots of good information on social media and on pharmacovigilance. Also a nice example of how to write a review article.
+
 Steedman: The implications of Zipf's Law for natural language processing--and for linguistics.
 
 Temnikova: Mathematical properties of the language of a genre of clinical texts.
